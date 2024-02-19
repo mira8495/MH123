@@ -1,7 +1,10 @@
 Hello
 
+Here two projects has been mentioned.
 
-Here we have detected object using YOLOv8. 
+1. Object Detection Using YOLOv8
+2. Text Extraction from a text data Using Paddle OCR
+
 
 In terminal:
 
